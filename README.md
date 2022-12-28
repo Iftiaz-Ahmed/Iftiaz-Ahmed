@@ -1,13 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/8fcc70ef30bef7b4f9d8093988f48069df1b8a2dee2eb802def0b6a392df2a99/68747470733a2f2f7468756d62732e647265616d7374696d652e636f6d2f622f686f72697a6f6e74616c2d62616e6e65722d68616e64732d747970696e672d6c6170746f702d6b6579626f6172642d766172696f75732d656c656374726f6e69632d646576696365732d73796d626f6c732d70726f6772616d6d696e672d736f6674776172652d686f72697a6f6e74616c2d3132353931373932322e6a7067)
 <h1 align="center">Hi 👋, I'm Iftiaz Ahmed Alfi</h1>
 <h3 align="center">Python and Flutter enthusiast. Loves Machine learning and AI.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftiaz-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="iftiaz-ahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftiaz-ahmed" alt="iftiaz-ahmed" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/iftiaz_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/iftiaz_ahmed?logo=twitter&style=for-the-badge" alt="https://twitter.com/iftiaz_ahmed" /></a> </p>
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<p align="left"> <a href="https://twitter.com/iftiaz_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/iftiaz_ahmed?logo=twitter&style=for-the-badge" alt="iftiaz_ahmed" /></a> </p>
 
 - 🔭 I recently finished an academic project with python [Checkers game](https://github.com/Iftiaz-Ahmed/Checkers-py)
 
