@@ -11,7 +11,7 @@
 
 - 🔭 I recently finished an academic project with python [Checkers game](https://github.com/Iftiaz-Ahmed/Checkers-py)
 
-- 👨‍💻 All of my projects are available at [www.iftiazahmed.com](www.iftiazahmed.com)
+- 👨‍💻 All of my projects are available at www.iftiazahmed.com
 
 - 💬 Ask me about **Python, Flutter**
 
