@@ -11,15 +11,13 @@
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <a href="https://twitter.com/iftiaz_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/iftiaz_ahmed?logo=twitter&style=for-the-badge" alt="iftiaz_ahmed" /></a> </p>
 
-- 🔭 I recently finished an academic project with python [Checkers game](https://github.com/Iftiaz-Ahmed/Checkers-py)
+- 🔭 I recently finished an eCommerce website with MERN stack [Ecommerce Website](https://github.com/Iftiaz-Ahmed/eCommerce-template)
 
-- 👨‍💻 All of my projects are available at www.iftiazahmed.com
-
-- 💬 Ask me about **Python, Flutter**
+- 💬 Ask me about **Python, Flutter, JavaScript**
 
 - 📫 How to reach me **iftiaz.ahmed.alfi@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.iftiazahmed.com/resume/Resume%20of%20Iftiaz%20Ahmed.pdf)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iftiaz-ahmed-alfi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
